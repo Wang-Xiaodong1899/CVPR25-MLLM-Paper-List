@@ -23,7 +23,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 
 ## Video LLMs
 - **Apollo**: An Exploration of Video Understanding in Large Multi-Modal Models [Paper](https://arxiv.org/abs/2412.10360) [Page](https://apollo-lmms.github.io/)
-- **VideoRefer Suite**: Advancing Spatial-Temporal Object Understanding with Video LLM [Paper](https://arxiv.org/abs/2501.00599) {[Code](https://github.com/CircleRadon/VideoRefer-suite)
+- **VideoRefer Suite**: Advancing Spatial-Temporal Object Understanding with Video LLM [Paper](https://arxiv.org/abs/2501.00599) [Code](https://github.com/CircleRadon/VideoRefer-suite)
 - **Seq2Time**: Sequential Knowledge Transfer for Video LLM Temporal Grounding [Paper](https://arxiv.org/abs/2411.16932)
 - On the Consistency of Video Large Language Models in Temporal Comprehension [Paper](https://arxiv.org/abs/2411.12951) [Code](https://github.com/minjoong507/Consistency-of-Video-LLM)
 - **DyCoke**: Dynamic Compression of Tokens for Fast Video Large Language Models [Paper](https://arxiv.org/abs/2411.15024) [Code](https://github.com/KD-TAO/DyCoke)

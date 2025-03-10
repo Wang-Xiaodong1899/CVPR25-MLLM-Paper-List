@@ -7,7 +7,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
   - [Video LLMs](#video-llms)
   - [Unified LLMs](#unified-llms)
   - [Other Modalities](#other-modalities)
-  - [Preferece Optimization](#preference-optimization)
+  - [Preference Optimization](#preference-optimization)
   - [Jailbreak](#jailbreak)
   - [Benchmarks](#benchmarks)
   - [Retrieval](#retrieval)

@@ -22,6 +22,8 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **Critic-V**: VLM Critics Help Catch VLM Errors in Multimodal Reasoning [Paper](https://arxiv.org/abs/2411.18203)
 - **Mono-InternVL**: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training [Paper](https://arxiv.org/abs/2410.08202) [Code](https://internvl.github.io/blog/2024-10-10-Mono-InternVL/)
 - **DivPrune**: Diversity-based Visual Token Pruning for Large Multimodal Models [Paper](https://arxiv.org/abs/2503.02175) [Code](https://github.com/vbdi/divprune)
+- **ODE**: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models [Paper](https://arxiv.org/abs/2409.09318)
+- Augmenting Multimodal LLMs with Self-Reflective Tokens for Knowledge-based Visual Question Answering [Paper](https://arxiv.org/abs/2411.16863) [Code](https://github.com/aimagelab/ReflectiVA)
 
 
 
@@ -42,6 +44,8 @@ CVPR 2025 Multimodal Large Language Models Paper List
 
 
 
+
+
 ## Unified LLMs
 - **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
 - **JanusFlow**: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2411.07975) [Code](https://github.com/deepseek-ai/Janus)
@@ -56,6 +60,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 ## Preference Optimization
 - **Task Preference Optimization**: Improving Multimodal Large Language Models Performance with Vision Task Alignment [Paper](https://github.com/OpenGVLab/TPO) [Code](https://github.com/OpenGVLab/TPO)
 - **SymDPO**: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization [Paper](https://arxiv.org/abs/2411.11909) [Code](https://github.com/APiaoG/SymDPO)
+- Continual SFT Matches Multimodal RLHF with Negative Supervision [Paper](https://arxiv.org/abs/2411.14797)
 
 ## Jailbreak
 - **Immune**: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment [Paper](https://arxiv.org/abs/2411.18688) [Code](https://github.com/itsvaibhav01/Immune)
@@ -76,4 +81,6 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **VideoAutoArena**: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation [Paper](https://arxiv.org/abs/2411.13281) [Code](https://github.com/VideoAutoArena/VideoAutoArena)
 - **OVBench**: How Far is Your Video-LLMs from Real-World Online Video Understanding? [Paper](https://arxiv.org/pdf/2501.05510) [Code](https://github.com/JoeLeelyf/OVO-Bench?tab=readme-ov-file)
 - **ECBench**: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark [Paper](https://arxiv.org/abs/2501.05031) [Code](https://github.com/Rh-Dang/ECBench)
-- Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning [Paper](https://arxiv.org/abs/2411.16761) [Code](https://github.com/jhCOR/EgoOrientBench)
+- Localizing Events in Videos with Multimodal Queries [Paper](https://arxiv.org/abs/2406.10079) [Code](https://github.com/icq-benchmark/icq-benchmark)
+- **ICQ**: Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning [Paper](https://arxiv.org/abs/2411.16761) [Code](https://github.com/jhCOR/EgoOrientBench)
+- **VidHalluc**: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding [Paper](https://arxiv.org/abs/2412.03735) [Page](https://vid-halluc.github.io/)

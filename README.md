@@ -59,6 +59,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/abs/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
 - **CoMM**: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2406.10462) [Code](https://github.com/HKUST-LongGroup/CoMM)
 - **WeGen**: A Unified Model for Interactive Multimodal Generation as We Chat [Paper](https://arxiv.org/abs/2503.01115v1) [Code](https://github.com/hzphzp/WeGen)
+- **SynerGen-VL**: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding [Paper](https://arxiv.org/abs/2412.09604) 
 
 ## Other Modalities
 - **Thinking in Space**: How Multimodal Large Language Models See, Remember and Recall Spaces [Paper](https://arxiv.org/abs/2412.14171) [Code](https://github.com/vision-x-nyu/thinking-in-space)

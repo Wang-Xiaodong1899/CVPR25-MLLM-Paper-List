@@ -33,6 +33,11 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens [Paper](https://arxiv.org/abs/2411.16724)
 - **HoVLE**: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [Paper](https://arxiv.org/abs/2412.16158)
 - **VoCo-LLaMA**: Towards Vision Compression with Large Language Models [Paper](https://arxiv.org/abs/2406.12275v2) [Code](https://github.com/Yxxxb/VoCo-LLaMA?tab=readme-ov-file)
+- Perception Tokens Enhance Visual Reasoning in Multimodal Language Models [Paper](https://arxiv.org/abs/2412.03548) [Page](https://aurora-perception.github.io/)
+- **Florence-VL**: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion [Paper](https://arxiv.org/abs/2412.04424) [Page](https://jiuhaichen.github.io/florence-vl.github.io/)
+- **ATP-LLaVA**: Adaptive Token Pruning for Large Vision Language Models [Paper](https://arxiv.org/abs/2412.00447) [Page](https://yxxxb.github.io/ATP-LLaVA-page/)
+- Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction [Paper](https://arxiv.org/abs/2412.00556)
+- **VisionZip**: Longer is Better but Not Necessary in Vision Language Models [Paper](https://arxiv.org/abs/2412.04467) [Code](https://github.com/dvlab-research/VisionZip)
 
 
 
@@ -52,6 +57,8 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Unlocking Video-LLM via Agent-of-Thoughts Distillation [Paper](https://arxiv.org/abs/2412.01694v1) [Page](https://zhengrongz.github.io/AoTD/)
 - **STEP**: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training [Paper](https://arxiv.org/abs/2412.00161)
 - **PVC**: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models [Paper](https://arxiv.org/abs/2412.09613) [Code](https://github.com/OpenGVLab/PVC?tab=readme-ov-file)
+- **NVILA**: Efficient Frontier Visual Language Models [Paper](https://arxiv.org/abs/2412.04468) [Code](https://github.com/NVlabs/VILA)
+- **Video-Panda**: Parameter-efficient Alignment for Encoder-free Video-Language Models [Paper](https://arxiv.org/abs/2412.18609) [Code](https://github.com/jh-yi/Video-Panda)
 
 
 ## Unified LLMs
@@ -77,6 +84,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Distraction is All You Need for Multimodal Large Language Model Jailbreaking [Paper](https://arxiv.org/abs/2502.10794)
 - **Playing the Fool**: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy [Paper](https://openreview.net/pdf?id=rgiIZ3pcZY)
 - Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models [Paper](https://arxiv.org/abs/2411.18000)
+- Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks [Paper](https://arxiv.org/abs/2411.16721) [Code](https://github.com/ASTRAL-Group/ASTRA)
 
 ## Retrieval
 - **GME**: Improving Universal Multimodal Retrieval by Multimodal LLMs [Paper](https://arxiv.org/abs/2412.16855) [Code](https://huggingface.co/Alibaba-NLP/gme-Qwen2-VL-2B-Instruct/blob/main/gme_inference.py)
@@ -100,3 +108,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **VL-RewardBench**: A Challenging Benchmark for Vision-Language Generative Reward Models [Paper](https://arxiv.org/abs/2411.17451) [Page](https://vl-rewardbench.github.io/)
 - Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning [Paper](https://arxiv.org/abs/2412.08614) [Code](https://github.com/LuFan31/CompreCap)
 - **OpenING**: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation [Paper](https://arxiv.org/abs/2411.18499) [Code](https://github.com/LanceZPF/OpenING)
+- Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation [Paper](https://arxiv.org/abs/2501.03225) [Page](https://yuhui-zh15.github.io/AutoConverter-Website/)
+- **VideoChat-Online**: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models [Paper](https://arxiv.org/abs/2501.00584v1) [Page](https://videochat-online.github.io/)
+- **ODE**: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models [Paper](https://arxiv.org/abs/2409.09318)
+

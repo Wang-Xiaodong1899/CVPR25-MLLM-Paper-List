@@ -97,4 +97,4 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Unveiling the Ignorance of MLLMs: Seeing Clearly, Answering Incorrectly [Paper](https://arxiv.org/abs/2406.10638)
 - **VL-RewardBench**: A Challenging Benchmark for Vision-Language Generative Reward Models [Paper](https://arxiv.org/abs/2411.17451) [Page](https://vl-rewardbench.github.io/)
 - Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning [Paper](https://arxiv.org/abs/2412.08614) [Code](https://github.com/LuFan31/CompreCap)
-- OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation [Paper](https://arxiv.org/abs/2411.18499) [Code](https://github.com/LanceZPF/OpenING)
+- **OpenING**: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation [Paper](https://arxiv.org/abs/2411.18499) [Code](https://github.com/LanceZPF/OpenING)

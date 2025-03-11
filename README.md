@@ -32,7 +32,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **HiRes-LLaVA**: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models [Paper](https://arxiv.org/abs/2407.08706)
 - Devils in Middle Layers of Large Vision-Language Models: Interpreting, Detecting and Mitigating Object Hallucinations via Attention Lens [Paper](https://arxiv.org/abs/2411.16724)
 - **HoVLE**: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [Paper](https://arxiv.org/abs/2412.16158)
-- **VoCo-LLaMA**: Towards Vision Compression with Large Language Models [Paper](https://github.com/Yxxxb/VoCo-LLaMA?tab=readme-ov-file) [Code](https://github.com/Yxxxb/VoCo-LLaMA?tab=readme-ov-file)
+- **VoCo-LLaMA**: Towards Vision Compression with Large Language Models [Paper](https://arxiv.org/abs/2406.12275v2) [Code](https://github.com/Yxxxb/VoCo-LLaMA?tab=readme-ov-file)
 
 
 

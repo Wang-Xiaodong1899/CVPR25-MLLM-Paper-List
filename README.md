@@ -41,6 +41,8 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Adaptive Keyframe Sampling for Long Video Understanding [Paper](https://arxiv.org/abs/2502.21271) [Code](https://github.com/ncTimTang/AKS)
 - **VISTA**: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation [Paper](https://arxiv.org/abs/2412.00927) [Code](https://github.com/TIGER-AI-Lab/VISTA)
 - **LLaVA-ST**: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding [Paper](https://arxiv.org/abs/2501.08282) [Code](https://github.com/appletea233/LLaVA-ST)
+- Unlocking Video-LLM via Agent-of-Thoughts Distillation [Paper](https://arxiv.org/abs/2412.01694v1) [Page](https://zhengrongz.github.io/AoTD/)
+- **STEP**: Enhancing Video-LLMs’ Compositional Reasoning by Spatio-Temporal Graph-guided Self-Training [Paper](https://arxiv.org/abs/2412.00161)
 
 
 
@@ -84,3 +86,5 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Localizing Events in Videos with Multimodal Queries [Paper](https://arxiv.org/abs/2406.10079) [Code](https://github.com/icq-benchmark/icq-benchmark)
 - **ICQ**: Is `Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models through Egocentric Instruction Tuning [Paper](https://arxiv.org/abs/2411.16761) [Code](https://github.com/jhCOR/EgoOrientBench)
 - **VidHalluc**: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding [Paper](https://arxiv.org/abs/2412.03735) [Page](https://vid-halluc.github.io/)
+- **VidComposition**: Can MLLMs Analyze Compositions in Compiled Video? [Paper](https://arxiv.org/abs/2411.10979v1) [Code](https://github.com/yunlong10/VidComposition)
+- Unveiling the Ignorance of MLLMs: Seeing Clearly, Answering Incorrectly [Paper](https://arxiv.org/abs/2406.10638)

@@ -59,6 +59,7 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - **PVC**: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models [Paper](https://arxiv.org/abs/2412.09613) [Code](https://github.com/OpenGVLab/PVC?tab=readme-ov-file)
 - **NVILA**: Efficient Frontier Visual Language Models [Paper](https://arxiv.org/abs/2412.04468) [Code](https://github.com/NVlabs/VILA)
 - **Video-Panda**: Parameter-efficient Alignment for Encoder-free Video-Language Models [Paper](https://arxiv.org/abs/2412.18609) [Code](https://github.com/jh-yi/Video-Panda)
+- **HierarQ**: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding [Paper](https://arxiv.org/abs/2503.08585v1) [Page](https://sacrcv.github.io/HierarQ-website/)
 
 
 ## Unified LLMs

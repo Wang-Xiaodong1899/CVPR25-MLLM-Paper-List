@@ -111,4 +111,5 @@ CVPR 2025 Multimodal Large Language Models Paper List
 - Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation [Paper](https://arxiv.org/abs/2501.03225) [Page](https://yuhui-zh15.github.io/AutoConverter-Website/)
 - **VideoChat-Online**: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models [Paper](https://arxiv.org/abs/2501.00584v1) [Page](https://videochat-online.github.io/)
 - **ODE**: Open-Set Evaluation of Hallucinations in Multimodal Large Language Models [Paper](https://arxiv.org/abs/2409.09318)
+- **VideoEspresso**: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection [Paper](https://arxiv.org/abs/2411.14794v1) [Code](https://github.com/hshjerry/VideoEspresso)
 
